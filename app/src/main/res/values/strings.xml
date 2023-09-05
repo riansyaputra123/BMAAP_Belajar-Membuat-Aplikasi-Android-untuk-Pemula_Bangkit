@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">MyClubApp</string>
+    <string name="club_name">club_name</string>
+    <string name="description">Deskripsi</string>
+    <string name="name">Rian Syaputra Ainun Naim</string>
+    <string name="email">riansyaputra220902@gmail.com</string>
+    <string name="blank">blank</string>
+    <string name="liga">Liga</string>
+    <string name="berdiri">Berdiri</string>
+    <string name="kota">Kota</string>
+    <string name="negara">Negara</string>
+    <string name="wiki_club">Wiki Club</string>
+
+    <string-array name="data_name">
+        <item>Juventus</item>
+        <item>Manchester United</item>
+        <item>Bayern Munchen</item>
+        <item>Napoli</item>
+        <item>Barcelona</item>
+        <item>Liverpool</item>
+        <item>Inter Milan</item>
+        <item>Real Madrid</item>
+        <item>Arsenal</item>
+        <item>Paris-Saint German</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Juventus dan populer dengan nama Juve  adalah klub sepak bola profesional asal Italia yang berbasis di kota Turin, Piemonte. Klub ini didirikan pada tahun 1897 dengan nama Sport Club Juventus oleh sekelompok pelajar muda di kota Turin yang dipimpin oleh seorang ahli bernama Eugenio Canfari dan saudaranya Enrico. Juventus adalah klub tertua kedua di Italia, setelah Genoa yang didirikan pada tahun 1893. Mereka tampil untuk pertama kalinya di liga divisi teratas Italia pada tahun 1900, setelah berganti nama menjadi Football Club Juventus. Mereka terus berada di kompetisi tertinggi tersebut (yang menggunakan nama Serie A sejak tahun 1929), kecuali pada musim 2006–2007.</item>
+        <item>Manchester United telah memenangkan banyak trofi di sepak bola Inggris, termasuk 20 gelar Liga—terbanyak dalam sejarah, 12 gelar Piala FA, 6 gelar Piala Liga dan 21 gelar Community Shield FA—juga terbanyak dalam sejarah. Klub ini juga telah memenangkan tiga gelar Piala/Liga Champions, satu Liga Eropa UEFA, satu Piala Winners UEFA, satu Piala Super UEFA, satu Piala Interkontinental, dan satu Piala Dunia Antarklub FIFA—klub Inggris pertama yang menjuarai ajang ini. Pada musim 1998–1999, klub ini memenangkan treble (trigelar) dari Liga Utama, Piala FA, dan Liga Champions; prestasi ini belum pernah terjadi sebelumnya untuk klub Inggris. Manchester United juga merupakan salah satu klub tersukses sepanjang masa di Inggris.</item>
+        <item>FC Bayern didirikan pada tahun 1900 oleh sebelas pemain sepak bola yang dipimpin oleh Franz John.[5] Meskipun Bayern memenangkan kejuaraan nasional pertamanya pada tahun 1932,[6] klub tersebut tidak dipilih untuk Bundesliga pada awal tahun 1963.[7] Klub memiliki periode yang sukses terbesar di tengah tahun 1970-an, di bawah kapten dari Franz Beckenbauer, memenangkan Piala Champions tiga kali berturut-turut (1974-1976). Secara keseluruhan, Bayern telah mencapai sebelas final Piala Champions/Liga Champions, yang terakhir memenangkan gelar keenam mereka pada tahun 2020 sebagai bagian dari treble benua.</item>
+        <item>Società Sportiva Calcio Napoli (umumnya hanya disebut Napoli) (diucapkan [ˈnaːpoli]), adalah sebuah klub sepak bola Italia yang bermarkas di kota Napoli, Campania. Klub ini memainkan pertandingan kandangnya di Stadion Diego Armando Maradona yang berkapasitas 54.726 penonton. Seragam mereka berwarna biru langit, sehingga mereka dijuluki Azzurri (Biru).mereka mempunyai beberapa pemain mereka pada tahun 1980-an termasuk Diego Maradona, Andrea Carnevale, dan Antonio Careca.</item>
+        <item>Fútbol Club Barcelona, (pengucapan bahasa Spanyol: [fubˈbɔl klub bəɾsəˈlonə]) juga dikenal sebagai Barcelona atau Barça, adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol, yang ikut serta di kompetisi tertinggi sepak bola Spanyol, La Liga. Didirikan pada tahun 1899 oleh sekelompok pemain Swiss, Inggris, Jerman dan Katalan yang dipimpin oleh Joan Gamper, klub telah menjadi simbol budaya Catalan dan Catalanisme, yang mempunyai motto "Més que un club" (Lebih dari sebuah klub). Tidak seperti banyak klub sepak bola lainnya, para pendukung memiliki dan mengoperasikan Barcelona. Ia adalah klub sepak bola kedua terkaya di dunia dalam hal pendapatan, dengan omzet tahunan sebesar €560,8 juta dan kedua yang paling berharga, senilai $3,56 miliar.</item>
+        <item>Liverpool Football Club /ˈlɪvərpuːl/ (dikenal pula sebagai Liverpool atau The Reds) adalah sebuah klub sepak bola profesional asal Inggris yang berbasis di Liverpool. Didirikan pada tahun 1892, Liverpool kemudian bergabung dengan Football League di tahun berikutnya dan sejak pembentukannya memainkan pertandingan kandang mereka di Stadion Anfield yang terletak sekitar 4,8 km dari pusat kota.</item>
+        <item>Football Club Internazionale Milano,[9] atau yang dikenal dengan nama Internazionale (/ˌinternattsjoˈnaːle/) ataupun juga Inter, dan bahasa sehari-hari dikenal sebagai Inter Milan di luar Italia,[10] adalah sebuah klub sepak bola profesional asal Italia yang saat ini bermain di Serie A Liga Italia. Inter Milan mempunyai julukan sebagai il Nerazzurri (si biru hitam), il Biscone (si ular besar), dan juga La Beneamata (yang tersayang). Klub bermain di Serie A (divisi pertama) sejak tahun 1908, dan pendukung Inter Milan disebut Interisti.</item>
+        <item>Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. Kata Real ("dari kerajaan") Spanyol dan dianugerahkan ke klub oleh Raja Alfonso XIII pada tahun 1920 bersama-sama dengan mahkota kerajaan di lambang klub. Klub ini telah memainkan pertandingan kandang di Stadion Santiago Bernabéu dengan kapasitas 85.454 di pusat kota Madrid sejak tahun 1947.</item>
+        <item>Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. Didirikan pada 1886 dengan nama Dial Square. Klub ini bermain di Liga Utama Inggris yang termasuk salah satu klub tersukses di sepak bola Inggris, yang telah memenangkan 13 gelar kasta utama Liga Inggris (10 pada era Divisi Pertama dan 3 pada era Premier League) dan menjadi club pemenang gelar Piala FA paling banyak yakni 14 gelar piala FA. Arsenal memegang rekor untuk periode terpanjang berada di kasta puncak Liga Inggris tanpa pernah terdegradasi sejak musim 1919 dan menjadi tim pada peringkat pertama dalam klasemen Liga Inggris sepanjang abad ke-20. Arsenal menjadi tim kedua di Inggris yang menyelesaikan semusim liga tanpa kalah (musim 2003–04) dan tim pertama yang melakukannya pada era di mana satu musim berlangsung 38 pertandingan.</item>
+        <item>Paris Saint-Germain (pengucapan bahasa Prancis: [paʁi sɛ̃ ʒɛʁmɛ̃]) atau dikenal luas dengan sebutan PSG merupakan sebuah tim sepak bola Prancis yang bermain di Ligue 1, Prancis. Bermarkas di Paris, Prancis. Klub ini didirikan pada 12 Agustus 1972, berkat penggabungan Paris FC dan Stade Saint-Germain. Klub Sepak Bola Paris Saint-Germain (Pengucapan Perancis:[paʁi sɛ̃ ʒɛʁmɛ̃]), biasa disebut sebagai Paris Saint-Germain, Paris. Paris SG atau hanya PSG adalah klub sepak bola profesional yang berbasis di Paris, Perancis.  Mereka berkompetisi di Ligue 1, divisi teratas sepak bola Prancis.</item>
+    </string-array>
+
+
+    <string-array name="data_photo">
+        <item>https://cdn.soccerwiki.org/images/logos/clubs/110.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/255px-SSC_Neapel.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/338px-FC_Barcelona_%28crest%29.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Liverpool_FC.svg/300px-Liverpool_FC.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/300px-FC_Internazionale_Milano_2021.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/5/53/Arsenal_FC.svg/255px-Arsenal_FC.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/e/e4/Paris_Saint-Germain_F.C..png/330px-Paris_Saint-Germain_F.C..png</item>
+    </string-array>
+
+    <string-array name="data_berdiri">
+        <item>1897</item>
+        <item>1878</item>
+        <item>1900</item>
+        <item>1924</item>
+        <item>1899</item>
+        <item>1892</item>
+        <item>1908</item>
+        <item>1902</item>
+        <item>1886</item>
+        <item>1970</item>
+    </string-array>
+
+    <string-array name="data_negara">
+        <item>Italia</item>
+        <item>Inggris</item>
+        <item>Jerman</item>
+        <item>Italia</item>
+        <item>Spanyol</item>
+        <item>Inggris</item>
+        <item>Italia</item>
+        <item>Spanyol</item>
+        <item>Inggris</item>
+        <item>Perancis</item>
+    </string-array>
+
+    <string-array name="data_liga">
+        <item>Serie A</item>
+        <item>Premier League</item>
+        <item>Bundesliga</item>
+        <item>Serie A</item>
+        <item>Bundesliga</item>
+        <item>Premier League</item>
+        <item>Serie A</item>
+        <item>Bundesliga</item>
+        <item>Premier League</item>
+        <item>Ligue 1</item>
+    </string-array>
+
+    <string-array name="data_kota">
+        <item>Turin</item>
+        <item>Manchester Raya</item>
+        <item>Munich</item>
+        <item>Napoli</item>
+        <item>Barcelona</item>
+        <item>Liverpool</item>
+        <item>Milan</item>
+        <item>Madrid</item>
+        <item>London</item>
+        <item>Paris</item>
+    </string-array>
+
+    <string-array name="data_negara_img">
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/188px-Flag_of_England.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/188px-Flag_of_Germany.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/188px-Bandera_de_Espa%C3%B1a.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/188px-Flag_of_England.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/188px-Bandera_de_Espa%C3%B1a.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/188px-Flag_of_England.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/188px-Flag_of_France.svg.png</item>
+    </string-array>
+
+    <string-array name="data_liga_img">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Serie_A.png/1200px-Serie_A.png</item>
+        <item>https://www.imagensempng.com.br/wp-content/uploads/2023/06/Logo-Premier-League-Png-1024x1024.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Serie_A.png/1200px-Serie_A.png</item>
+        <item>https://www.thesun.co.uk/wp-content/uploads/2023/06/la-liga-logo-822870770-1.jpg</item>
+        <item>https://www.imagensempng.com.br/wp-content/uploads/2023/06/Logo-Premier-League-Png-1024x1024.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Serie_A.png/1200px-Serie_A.png</item>
+        <item>https://www.thesun.co.uk/wp-content/uploads/2023/06/la-liga-logo-822870770-1.jpg</item>
+        <item>https://www.imagensempng.com.br/wp-content/uploads/2023/06/Logo-Premier-League-Png-1024x1024.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/523px-Ligue1_Uber_Eats_logo.png</item>
+    </string-array>
+
+
+</resources>
